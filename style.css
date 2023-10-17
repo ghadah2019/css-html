@@ -1,0 +1,18 @@
+body {background-color: rgb(138, 154, 193);}
+
+p {
+    color: rgb(58, 130, 130);
+}
+
+
+h1 {
+    text-align: center;
+
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+    background-color: azure;
+}
+
